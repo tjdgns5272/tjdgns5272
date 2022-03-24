@@ -4,13 +4,13 @@
 
 ## Hi, I'm Node.js Backend developer
 
-🖥 [Language]  Javascript, Typescript
+🖥 [Language] Typescript
 
-⚙️ [Framework & Library] Express, NestJS, React
+⚙️ [Framework & Library] NestJS, Express, React, RabitMQ
 
-💿 [DB & Server] MySQL, Node.js, TypeORM, Sequelize
+💿 [DB & Server] MySQL, PostgreSQL, Node.js, TypeORM
 
-🏷 [Etc] Git, AWS(EC2, RDS, S3), JWT, Postman, Slack, Notion
+🏷 [Etc] GraphQL, AWS(EC2, RDS, S3)
 
 ![Seonghun's github stats](https://github-readme-stats.vercel.app/api?username=tjdgns5272&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdgns5272&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
